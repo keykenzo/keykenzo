@@ -73,13 +73,6 @@ Today, I specialize in **Swift** and **SwiftUI**, with deep dives into **SwiftDa
 
 ---
 
-### 🐍 My Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/keykenzo/MarioDuarte/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📫 How to reach me:
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioduartesilveira/)
