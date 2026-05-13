@@ -5,8 +5,10 @@ I am a passionate iOS Developer dedicated to creating clean, efficient, and user
 
 Today, I specialize in **Swift** and **SwiftUI**, with deep dives into **SwiftData** for modern persistence, **MapKit** for geographic data, and **WidgetKit** for ecosystem integration. I enjoy the challenge of bridging the gap between legacy concepts (like Core Data) and the new era of declarative, safe, and performant programming.
 
-### 🌎 My Published Apps
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/br/app/easy-meal-app/id6761028653)
+### 📫 How to reach me:
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioduartesilveira/)
+* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariods7@gmail.com)
 
 ---
 
@@ -37,7 +39,4 @@ Today, I specialize in **Swift** and **SwiftUI**, with deep dives into **SwiftDa
 
 ---
 
-### 📫 How to reach me:
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioduartesilveira/)
-* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariods7@gmail.com)
